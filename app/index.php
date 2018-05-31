@@ -55,6 +55,7 @@
       <div class="starter-template">
         <h1>Hallo <?php echo 'APPUiO'?> & Beat</h1>
         <p class="lead">APPUiO Example Dockerfile PHP</p>
+        <hr><code>git webhook works...</code>
       </div>
 
     </div><!-- /.container -->
